@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 AWS VPC Infrastructure using Terraform
 
 ## 🌐 Live Demo : 47.131.151.203
@@ -184,3 +185,7 @@ Rahul Devadkar
 ## ⭐ Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
+=======
+# terraform-aws-vpc-infrastructure
+AWS VPC Infrastructure using Terraform | VPC , Public Subnet, Internet Gateway, Route Table, Security Group, Elastic IP and EC2 Instance
+>>>>>>> 23ff19059f3f39b176cfd4d14398add88bfe6134

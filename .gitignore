@@ -5,6 +5,8 @@
 *.tfstate
 .tfstate.
 
+*.pem 
+
 # Terraform lock file (optional)
 .terraform.lock.hcl
 
