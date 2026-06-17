@@ -3,10 +3,8 @@
 
 # Terraform state files
 *.tfstate
-.tfstate.
-
-*.pem 
-
+*.tfstate.*
+*.pem
 # Terraform lock file (optional)
 .terraform.lock.hcl
 
