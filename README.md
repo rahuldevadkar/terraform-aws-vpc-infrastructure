@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # 🚀 AWS VPC Infrastructure using Terraform
 
-## 🌐 Live Demo : 47.131.151.203
+## 🌐 Live Demo : 13.250.75.158
 
 ## 📖 Project Overview
 
